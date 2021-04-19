@@ -23,7 +23,7 @@ I'm interested in **Front-End** and **Back-End** 💻 <br>
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@duvrdx-000000?style=rounded-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/duvrdx)](https://twitter.com/duvrdx) 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Henrique-000000?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/)](https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/) 
-[![Gmail Badge](https://img.shields.io/badge/-duvrdx@gmail.com-000000?style=rounded-square&logo=Gmail&logoColor=white&link=mailto:duvrdx@gmail.com)](mailto:duvrdx@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@duvrdx-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/duvrdx)](https://twitter.com/duvrdx) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/)](https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/) 
+[![Gmail Badge](https://img.shields.io/badge/-duvrdx@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duvrdx@gmail.com)](mailto:duvrdx@gmail.com)
  
