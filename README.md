@@ -1,7 +1,6 @@
 # Hiii! I'm Eduardo Henrique 👋
 
 I'm a Brazilian **Information Systems** student at **IFES** 🏫 <br>
-I'm interested in **Front-End** and **Back-End** 💻 <br>
 
 
 <div style="display: inline_block"><br>
