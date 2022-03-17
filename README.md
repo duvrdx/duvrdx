@@ -2,6 +2,12 @@
 
 I'm a Brazilian **Information Systems** student at **IFES** 🏫 <br>
 
+## Interests :computer:
+- Web Developement(Frontend & Backend) 🌐
+- Machine Learning :desktop_computer:
+- Neural Networks :brain:
+- Computer Vision :eyes:
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
