@@ -3,7 +3,7 @@
 I am a Brazilian student of the 3rd semester of **Information Systems** at **IFES** 🏫 <br>
 
 ## Interests :computer:
-- Web Developement(Frontend & Backend) 🌐
+- Web Developement (Frontend & Backend) 🌐
 - Machine Learning :desktop_computer:
 - Neural Networks :brain:
 - Computer Vision :eyes:
