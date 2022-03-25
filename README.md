@@ -1,6 +1,7 @@
 # Hiii! I'm Eduardo Henrique 👋
 
-I am a Brazilian student of the 3rd semester of **Information Systems** at **IFES** 🏫 <br>
+I am a Brazilian student of the 3rd semester of **Information Systems** at **IFES** 🏫.<br>
+**Scientific Initiation** in the area of ***Computer Vision*** at **IFES**🏫<br>
 
 ## Interests :computer:
 - Web Developement (Frontend & Backend) 🌐
