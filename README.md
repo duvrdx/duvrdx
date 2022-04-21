@@ -1,31 +1,27 @@
-# Hiii! I'm Eduardo Henrique 👋
+Hi 👋 My name is Eduardo Henrique
+=================================
+Information Systems Student and Scientific initiation Researcher
+----------------------------------------------------------------
+I started my bachelor's degree in IFES Systems in 2021, and I'm currently working on a Scientific Initiation in deeplearning, focusing on convolutional neural networks for classification of granite types.
+*🌍  I'm based in Serra, ES, Brazil
+* ✉️  You can contact me at [duvrdx@gmail.com](mailto:duvrdx@gmail.com)
+* 🚀  I'm currently working on [Scientific initiation](http://www.ifes.edu.br/)
+* 🧠  I'm learning Deep Learning, Tensorflow and Flask
 
-I am a Brazilian student of the 3rd semester of **Information Systems** at **IFES** 🏫.<br>
-**Scientific Initiation** in the area of ***Computer Vision*** at **IFES**🏫<br>
+<a href="https://www.twitter.com/duvrdx" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/duvrdx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-## Interests :computer:
-- Web Developement (Frontend & Backend) 🌐
-- Machine Learning :desktop_computer:
-- Neural Networks :brain:
-- Computer Vision :eyes:
+### Skills
 
+<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/duvrdx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/duvrdx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eduardo-henrique-pr%C3%B3spero-souza-478298203/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/duvrdx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-</div>
+### Badges
 
-## My Stats
+<b>My GitHub Stats</b>
 
-  <a href="https://github.com/duvrdx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duvrdx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvrdx&layout=compact&langs_count=8&theme=dark"/>
+<a href="http://www.github.com/duvrdx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duvrdx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/duvrdx"><img src="https://activity-graph.herokuapp.com/graph?username=duvrdx&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-[![Twitter Badge](https://img.shields.io/badge/-@duvrdx-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/duvrdx)](https://twitter.com/duvrdx) 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/)](https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/) 
-[![Gmail Badge](https://img.shields.io/badge/-duvrdx@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duvrdx@gmail.com)](mailto:duvrdx@gmail.com)
- 
+<a href="https://github.com/duvrdx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvrdx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
