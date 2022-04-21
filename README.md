@@ -3,7 +3,7 @@ Hi 👋 My name is Eduardo Henrique
 Information Systems Student and Scientific initiation Researcher
 ----------------------------------------------------------------
 I started my bachelor's degree in IFES Systems in 2021, and I'm currently working on a Scientific Initiation in deeplearning, focusing on convolutional neural networks for classification of granite types.
-*🌍  I'm based in Serra, ES, Brazil
+* 🌍  I'm based in Serra, ES, Brazil
 * ✉️  You can contact me at [duvrdx@gmail.com](mailto:duvrdx@gmail.com)
 * 🚀  I'm currently working on [Scientific initiation](http://www.ifes.edu.br/)
 * 🧠  I'm learning Deep Learning, Tensorflow and Flask
