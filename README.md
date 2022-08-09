@@ -6,7 +6,7 @@ I started my bachelor's degree in IFES Systems in 2021, and I'm currently workin
 * 🌍  I'm based in Serra, ES, Brazil
 * ✉️  You can contact me at [duvrdx@gmail.com](mailto:duvrdx@gmail.com)
 * 🚀  I'm currently working on [Scientific initiation](http://www.ifes.edu.br/)
-* 🧠  I'm learning Deep Learning, Tensorflow and Flask
+* 🧠  I'm learning Deep Learning and Java
 
 <a href="https://www.twitter.com/duvrdx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/duvrdx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
