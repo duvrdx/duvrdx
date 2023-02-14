@@ -9,7 +9,7 @@ class DataScientistResearcher:
         self.role = "Data Scientist Researcher & Student"
         self.language_spoken = ["pt_BR", "en_US", "es_ES"]
         self.main_technologies = ["Python", "Java", "C", "Tensorflow",
-                             "Flask", "Javascript", "VueJS]
+                             "Flask", "Javascript", "VueJS"]
         def say_hi(self):
           print("Thanks for coming here, hope you find something interesting.")
 
@@ -19,7 +19,7 @@ me.say_hi()
 ~~~
 
 ## 👨‍💻 Technologies and Tools
-![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Pop_OS!-informational?style=flat&logo=popos&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -28,6 +28,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=6aa6f8)
 
 ## 🏆 GitHub Trophies
 
