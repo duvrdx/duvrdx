@@ -6,10 +6,10 @@
 class DataScientistResearcher:
   def __init__(self):
         self.name = "Eduardo Henrique"
-        self.role = "Data Scientist Researcher & Student"
+        self.role = "Intern Backend Dev & Data Scientist Researcher & Student"
         self.language_spoken = ["pt_BR", "en_US", "es_ES"]
         self.main_technologies = ["Python", "Java", "C", "Tensorflow",
-                             "Flask", "Javascript", "VueJS"]
+                             "Flask", "Django", "Javascript", "VueJS"]
         def say_hi(self):
           print("Thanks for coming here, hope you find something interesting.")
 
